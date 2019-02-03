@@ -1,0 +1,19 @@
+{
+  "name": "portfoliogrid",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemRyaguzov/portfoliogrid.git"
+  },
+  "author": "Artem Ryaguzov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArtemRyaguzov/portfoliogrid/issues"
+  },
+  "homepage": "https://github.com/ArtemRyaguzov/portfoliogrid#readme"
+}

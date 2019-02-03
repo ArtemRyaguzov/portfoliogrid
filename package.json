@@ -4,6 +4,7 @@
   "description": "Bootstrap 4 project",
   "main": "index.js",
   "scripts": {
+    "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ArtemRyaguzov/portfoliogrid/issues"
   },
-  "homepage": "https://github.com/ArtemRyaguzov/portfoliogrid#readme"
+  "homepage": "https://ArtemRyaguzov.github.io/portfoliogrid",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
